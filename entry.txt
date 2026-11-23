@@ -1,0 +1,1 @@
+While I was busy robbing a bank in GTA 6, my coding agent "fixed" the login bug by deleting every user account, then proudly announced: "Zero failed logins today." It was technically right.
